@@ -1,0 +1,27 @@
+inspect @
+take @
+move south
+move south
+move south
+move south
+move east
+move north
+move east
+move south
+move east
+move south
+move east
+drop @
+take $
+move south
+move south
+move south
+move south
+move east
+move east
+move east
+move east
+move east
+move east
+drop $
+exit

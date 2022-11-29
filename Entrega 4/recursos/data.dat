@@ -1,0 +1,245 @@
+#s:1|Casilla 1|-1|-1|-1|1|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |La Renfe|Necesitas el ticket para poder escapar|
+#s:2|Casilla 2|18|1|-1|2|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |Entrada Renfe|Corre que pierdes el cercanias y es el ultimo que pasa|
+#s:3|Casilla 3|-1|2|-1|3|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Einstein 1|C/. Einstein|
+#s:4|Casilla 4|-1|3|-1|4|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Einstein 2|C/. Einstein|
+#s:5|Casilla 5|19|4|-1|5|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |Entrada a Filo y Profesorado|Mediante esta casilla accedes a la Facultad de Filosofia y Profesorado|
+#s:6|Casilla 6|-1|5|-1|6|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Einstein 3|C/. Einstein|
+#s:7|Casilla 7|20|6|-1|7|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |Entrada a Econominas|Mediante esta casilla accedes a la Facultad de Economicas|
+#s:8|Casilla 8|-1|7|-1|8|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Einstein 4|C/. Einstein|
+#s:9|Casilla 9|21|8|-1|9|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |Entrada a Ciencias|Mediante esta casilla accedes a la Facultad de Ciencias|
+#s:10|Casilla 10|-1|9|-1|10|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Einstein 10|C/. Einstein|
+#s:11|Casilla 11|22|10|93|11|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |Plaza Mayor|Una vez consigas el carnet de estudiante dirigete al campo de Rubgy|
+#s:12|Casilla 12|-1|11|-1|12|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Francisco Tomas y Valiente 1|C/. Francisco Tomas y Valiente|
+#s:13|Casilla 13|59|12|-1|13|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Francisco Tomas y Valiente 2|C/. Francisco Tomas y Valiente|
+#s:14|Casilla 14|-1|13|-1|14|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Francisco Tomas y Valiente 3|C/. Francisco Tomas y Valiente|
+#s:15|Casilla 15|23|14|-1|15|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |Entrada EPS|Una vez entres ya no te escapas|
+#s:16|Casilla 16|-1|15|-1|16|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Francisco Tomas y Valiente 4|C/. Francisco Tomas y Valiente|
+#s:17|Casilla 17|52|16|-1|17|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Francisco Tomas y Valiente 5|C/. Francisco Tomas y Valiente|
+#s:18|Casilla 18|-1|17|102|-1|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Francisco Tomas y Valiente 6|C/. Francisco Tomas y Valiente|
+#s:19|Casilla 19|24|-1|18|-1|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Freud 1|C/. Freud|
+#s:20|Casilla 20|75|-1|19|-1|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |Facultad de Filo y Profesorado|De las cafeterias con mas vida de la autonoma|
+#s:21|Casilla 21|76|-1|20|-1|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |Facultad de Economicas|Hoy charla sobre 10 estrategias de emprendimiento|
+#s:22|Casilla 22|77|-1|21|-1|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |Facultad de Ciencias|Aqui por lo visto te invitan a botellas de Heineklein|
+#s:23|Casilla 23|66|-1|22|-1|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |Parking|Parking lleno|
+#s:24|Casilla 24|-1|-1|23|-1|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |La grandiosa EPS|Maravilloso lugar en el que los estudiantes pasan mas horas que en su casa|
+#s:25|Casilla 25|25|-1|24|74|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Freud 2|C/. Freud|
+#s:26|Casilla 26|26|-1|25|-1|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Freud 3|C/. Freud|
+#s:27|Casilla 27|27|-1|26|-1|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Freud 4|C/. Freud|
+#s:28|Casilla 28|28|105|27|-1|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Freud 5|C/. Freud|
+#s:29|Casilla 29|29|-1|28|109|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |Entrada pistas de tenis|C/. Freud|
+#s:30|Casilla 30|30|-1|29|-1|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Freud 5|C/. Freud|
+#s:31|Casilla 31|-1|-1|30|31|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Freud 6|C/. Freud|
+#s:32|Casilla 32|-1|31|-1|32|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Erasmo de Rotterdam 1|C/. Erasmo de Rotterdam|
+#s:33|Casilla 33|-1|32|110|33|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |Entrada pista futbol 7|C/. Erasmo de Rotterdam|
+#s:34|Casilla 34|111|33|-1|34|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |Entrada Resa 1|C/. Erasmo de Rotterdam|
+#s:35|Casilla 35|-1|34|-1|35|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Erasmo de Rotterdam 2|C/. Erasmo de Rotterdam|
+#s:36|Casilla 36|-1|35|86|36|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Erasmo de Rotterdam 3|C/. Erasmo de Rotterdam|
+#s:37|Casilla 37|-1|36|-1|37|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Erasmo de Rotterdam 4|C/. Erasmo de Rotterdam|
+#s:38|Casilla 38|-1|37|78|38|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Erasmo de Rotterdam 5|C/. Erasmo de Rotterdam|
+#s:39|Casilla 39|-1|38|-1|39|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Erasmo de Rotterdam 6|C/. Erasmo de Rotterdam|
+#s:40|Casilla 40|112|39|-1|40|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |Entrada Resa 2|Necesitas la tarjeta de la residencia para poder pasar|
+#s:41|Casilla 41|-1|40|60|41|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Erasmo de Rotterdam 7|C/. Erasmo de Rotterdam|
+#s:42|Casilla 42|-1|41|-1|42|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Erasmo de Rotterdam 8|C/. Erasmo de Rotterdam|
+#s:43|Casilla 43|-1|42|53|43|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Erasmo de Rotterdam 9|C/. Erasmo de Rotterdam|
+#s:44|Casilla 44|113|43|-1|44|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |Rotonda de salida|Menudos atascos se montan aqui|
+#s:45|Casilla 45|-1|44|-1|45|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Erasmo de Rotterdam 10|C/. Erasmo de Rotterdam|
+#s:46|Casilla 46|-1|45|46|-1|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Erasmo de Rotterdam 11|C/. Erasmo de Rotterdam|
+#s:47|Casilla 47|46|-1|47|114|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |Entrada CBM|C/. Newton|
+#s:48|Casilla 48|47|-1|48|-1|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Newton 1|C/. Newton|
+#s:49|Casilla 49|48|-1|49|115|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |Entrada CMAM|C/. Newton|
+#s:50|Casilla 50|49|-1|50|-1|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Newton 2|C/. Newton|
+#s:51|Casilla 51|50|-1|51|116|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |Entrada Parque Cientifico|C/. Newton|
+#s:52|Casilla 52|51|-1|52|-1|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Newton 3|C/. Newton|
+#s:53|Casilla 53|53|-1|54|-1|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Marie Curie 1|C/. Marie Curie|
+#s:54|Casilla 54|54|-1|55|-1|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Marie Curie 2|C/. Marie Curie|
+#s:55|Casilla 55|55|-1|56|-1|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Marie Curie 3|C/. Marie Curie|
+#s:56|Casilla 56|56|-1|57|-1|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Marie Curie 4|C/. Marie Curie|
+#s:57|Casilla 57|57|-1|58|-1|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Marie Curie 5|C/. Marie Curie|
+#s:59|Casilla 59|60|-1|61|-1|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Lavoisier 1|C/. Lavoisier|
+#s:58|Casilla 58|58|-1|59|-1|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Marie Curie 6|C/. Marie Curie|
+#s:60|Casilla 60|61|-1|62|-1|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Lavoisier 2|C/. Lavoisier|
+#s:61|Casilla 61|62|82|63|-1|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |Entrada campo de futbol|C/. Lavoisier|
+#s:62|Casilla 62|63|-1|64|-1|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Lavoisier 3|C/. Lavoisier|
+#s:63|Casilla 63|64|67|-1|65|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Marx 5|C/. Marx|
+#s:64|Casilla 64|-1|65|66|-1|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Marx 6|C/. Marx|
+#s:65|Casilla 65|-1|68|77|67|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |Entrada trasera Ciencias|Para acceder vete a la entrada principal|
+#s:66|Casilla 66|84|69|-1|68|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Marx 4|C/. Marx|
+#s:67|Casilla 67|-1|70|76|99|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |Entrada trasera Economicas|Para acceder vete a la entrada principal|
+#s:68|Casilla 68|92|71|-1|70|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Marx 3|C/. Marx|
+#s:69|Casilla 69|-1|72|75|71|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |Entrada trasera Filo y Profesorado|Para acceder vete a la entrada principal|
+#s:70|Casilla 70|-1|73|-1|72|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Marx 2|C/. Marx|
+#s:71|Casilla 71|-1|74|-1|73|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Marx 1|C/. Marx|
+#s:72|Casilla 72|78|-1|79|-1|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Leibniz 1|C/. Leibniz|
+#s:73|Casilla 73|79|-1|80|-1|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Leibniz 2|C/. Leibniz|
+#s:75|Casilla 75|83|-1|84|-1|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Leibniz 3|C/. Leibniz|
+#s:74|Casilla 74|80|85|83|81|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |Entradas campos de futbol y rugby|El capitan del equipo esta muy liado con los entrenamientos, tienes que traerle el libro de Anatomia de la Facultad de Biologia para que te deje entrar|
+#s:76|Casilla 76|86|-1|87|-1|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Keynes 1|C/. Keynes|
+#s:77|Casilla 77|87|88|89|-1|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |Entradas pistas padel|C/. Keynes|
+#s:78|Casilla 78|89|-1|91|90|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |Entrada pista rugby|El capitan del equipo esta muy liado con los entrenamientos, tienes que traerle el libro de Anatomia de la Facultad de Biologia para que te deje entrar|
+#s:79|Casilla 79|91|-1|92|-1|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Keynes 2|C/. Keynes|
+#s:80|Casilla 80|93|-1|94|-1|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Marie Curie 7|C/. Marie Curie|
+#s:82|Casilla 82|96|-1|97|-1|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Marie Curie 8|C/. Marie Curie|
+#s:81|Casilla 81|94|95|96|-1|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |Entrada Psicologia|C/. Marie Curie|
+#s:83|Casilla 83|97|98|99|-1|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |Entrada Biologia|C/. Marie Curie|
+#s:84|Casilla 84|99|-1|100|-1|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Marie Curie 9|C/. Marie Curie|
+#s:85|Casilla 85|100|101|-1|-1|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |Entrada Derecho|Solo podras pasar si llevas el elemento clave, pregunta en R2, seguro que te pueden ayudar|
+#s:86|Casilla 86|102|-1|103|-1|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |C/. Newton 4|C/. Newton|
+#s:87|Casilla 87|103|-1|-1|104|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |Entrada Sala Buho|Uy! Parece que hay algo en el suelo|
+#s:88|Casilla 88|-1|106|-1|105|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |Rampita poli|Cuesta subirla pero por los cubo de cerves merece la pena|
+#s:89|Casilla 89|108|-1|107|106|-1|103|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |Terracita poli|Uf demasiadas cervezas, muevete hacia la casilla de abajo porque te has caido borrachin|
+#s:90|Casilla 90|107|-1|-1|-1|-1|-1|0| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |Gym|Las llaves de la Facultad de Ciencias! Podriamos ir a investigar...|
+#s:91|Casilla 91|-1|-1|108|-1|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |Polideportivo|Coje la pala de padel y llevala a las pistas|
+#s:92|Casilla 92|-1|109|-1|-1|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |Pistas Tenis|Horario: 8h-20h|
+#s:93|Casilla 93|110|-1|-1|-1|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |Campo de Futbol 7|Horario: 8h-20h|
+#s:94|Casilla 94|-1|-1|111|-1|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |RESA 1|Esta invadido por estudiantes con muchas ganas de fiesta, si encuentras pronto el ticket de la renfe igual hasta te puedes unir|
+#s:95|Casilla 95|-1|-1|-1|88|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |Pistas Padel|Gracias por traernos la pala, en compensacion te daremos una pista:dirigete a Derecho.|
+#s:96|Casilla 96|-1|90|-1|85|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |Campo de Rugby|El balon de Rugby es robado! Devulvelo a su sitio|
+#s:97|Casilla 97|-1|81|-1|82|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |Campo de Futbol|Partido manana a las 12:00h|
+#s:98|Casilla 98|-1|-1|112|-1|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |RESA 2|Aqui hay para elegir todo lo que necesites...|
+#s:99|Casilla 99|-1|-1|113|-1|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |Salida UAM|La barrera esta bajada|
+#s:100|Casilla 100|-1|114|-1|-1|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |Centro de Biologia Molecular|Cerrado por riesgo de contraer una nueva cepa de perecitis|
+#s:101|Casilla 101|-1|115|-1|-1|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |Centro de Micro Analisis de Materiales|Se ve alguna luz encendida, mejor dejarles trabajar en paz|
+#s:102|Casilla 102|-1|116|-1|-1|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |Parque Cientifico de Madrid|Oh una linterna! Les seria util en el gimnasio, ultimamente funciona muy mal la luz|
+#s:103|Casilla 103|-1|104|-1|-1|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |Sala Buho|Santo cielo! Son las 3 de la manana! Y encima se me ha olvidado el bono transporte, tengo que conseguir salir de aqui! Pero como...|
+#s:104|Casilla 104|-1|-1|-1|95|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |Facultad de Psicologia|Te miro y te analizo|
+#s:105|Casilla 105|-1|-1|-1|98|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |  | | | | | | | | | | | | |Facultad de Biologia|Coge el libro de Anatomia para poder entrar en el campo y coger el balon de Rugby|
+#s:106|Casilla 106|-1|-1|-1|101|-1|-1|1| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |Facultad de Derecho|Nos han otorgado una Orden de Entrada la cual usaremos para acceder al Parque Cientifico, donde esta nuestra siguiente pista|
+#l:1|Lnk1|1|2|1|
+#l:2|Lnk2|2|3|0|
+#l:3|Lnk3|3|4|0|
+#l:4|Lnk4|4|5|0|
+#l:5|Lnk5|5|6|0|
+#l:6|Lnk6|6|7|0|
+#l:7|Lnk7|7|8|0|
+#l:8|Lnk8|8|9|0|
+#l:9|Lnk9|9|10|0|
+#l:10|Lnk10|10|11|0|
+#l:11|Lnk11|11|12|0|
+#l:12|Lnk12|12|13|0|
+#l:13|Lnk13|13|14|0|
+#l:14|Lnk14|14|15|0|
+#l:15|Lnk15|15|16|0|
+#l:16|Lnk16|16|17|0|
+#l:17|Lnk17|17|18|0|
+#l:18|Lnk18|2|19|0|
+#l:19|Lnk19|5|20|1|
+#l:20|Lnk20|7|21|0|
+#l:21|Lnk21|9|22|1|
+#l:22|Lnk22|11|23|0|
+#l:23|Lnk23|15|24|0|
+#l:24|Lnk24|19|25|0|
+#l:25|Lnk25|25|26|0|
+#l:26|Lnk26|26|27|0|
+#l:27|Lnk27|27|28|0|
+#l:28|Lnk28|28|29|0|
+#l:29|Lnk29|29|30|0|
+#l:30|Lnk30|30|31|0|
+#l:31|Lnk31|31|32|0|
+#l:32|Lnk32|32|33|0|
+#l:33|Lnk33|33|34|0|
+#l:34|Lnk34|34|35|0|
+#l:35|Lnk35|35|36|0|
+#l:36|Lnk36|36|37|0|
+#l:37|Lnk37|37|38|0|
+#l:38|Lnk38|38|39|0|
+#l:39|Lnk39|39|40|0|
+#l:40|Lnk40|40|41|0|
+#l:41|Lnk41|41|42|0|
+#l:42|Lnk42|42|43|0|
+#l:43|Lnk43|43|44|0|
+#l:44|Lnk44|44|45|0|
+#l:45|Lnk45|45|46|0|
+#l:46|Lnk46|46|47|0|
+#l:47|Lnk47|47|48|0|
+#l:48|Lnk48|48|49|0|
+#l:49|Lnk49|49|50|0|
+#l:50|Lnk50|50|51|0|
+#l:51|Lnk51|51|52|0|
+#l:52|Lnk52|52|17|0|
+#l:53|Lnk53|43|53|0|
+#l:54|Lnk54|53|54|0|
+#l:55|Lnk55|54|55|0|
+#l:56|Lnk56|55|56|0|
+#l:57|Lnk57|56|57|0|
+#l:58|Lnk58|57|58|0|
+#l:59|Lnk59|58|13|0|
+#l:60|Lnk60|41|59|0|
+#l:61|Lnk61|59|60|0|
+#l:62|Lnk62|60|61|0|
+#l:63|Lnk63|61|62|0|
+#l:64|Lnk64|62|63|0|
+#l:65|Lnk65|63|64|0|
+#l:66|Lnk66|64|23|0|
+#l:67|Lnk67|63|65|0|
+#l:68|Lnk68|65|66|0|
+#l:69|Lnk69|66|67|0|
+#l:70|Lnk70|67|68|0|
+#l:71|Lnk71|68|69|0|
+#l:72|Lnk72|69|70|0|
+#l:73|Lnk73|70|71|0|
+#l:74|Lnk74|71|25|0|
+#l:75|Lnk75|20|79|1|
+#l:76|Lnk76|67|21|0|
+#l:77|Lnk77|65|22|1|
+#l:78|Lnk78|38|72|0|
+#l:79|Lnk79|72|73|0|
+#l:80|Lnk80|73|74|0|
+#l:81|Lnk81|74|97|0|
+#l:82|Lnk82|97|61|0|
+#l:83|Lnk83|74|75|0|
+#l:84|Lnk84|75|66|0|
+#l:85|Lnk85|74|96|1|
+#l:86|Lnk86|36|76|0|
+#l:87|Lnk87|76|77|0|
+#l:88|Lnk88|77|95|1|
+#l:89|Lnk89|77|78|0|
+#l:90|Lnk90|78|96|1|
+#l:91|Lnk91|78|79|0|
+#l:92|Lnk92|79|68|0|
+#l:93|Lnk93|11|80|0|
+#l:94|Lnk94|80|81|0|
+#l:95|Lnk95|81|104|0|
+#l:96|Lnk96|81|82|0|
+#l:97|Lnk97|82|83|0|
+#l:98|Lnk98|83|105|1|
+#l:99|Lnk99|83|84|0|
+#l:100|Lnk100|84|85|0|
+#l:101|Lnk101|106|85|1|
+#l:102|Lnk102|18|86|0|
+#l:103|Lnk103|86|87|0|
+#l:104|Lnk104|87|103|0|
+#l:105|Lnk105|28|88|0|
+#l:106|Lnk106|88|89|0|
+#l:107|Lnk107|89|90|0|
+#l:108|Lnk108|89|91|1|
+#l:109|Lnk109|29|92|0|
+#l:110|Lnk110|33|93|0|
+#l:111|Lnk111|94|34|0|
+#l:112|Lnk112|40|98|1|
+#l:113|Lnk113|44|99|0|
+#l:114|Lnk114|47|100|0|
+#l:115|Lnk115|49|101|0|
+#l:116|Lnk116|51|102|1|
+#l:117|Lnk117|89|103|0|
+#o:1|Ticket|22|1|0|0|1|0|0|Ticket|LO CONSEGUISTE! CORRE! HUYE!|
+#o:2|Llavecita|90|1|0|0|21|0|0|Llavecita|Esta llave abre el gimnasio|
+#o:3|Linterna|102|1|0|0|0|1|1|Linterna|Con esta linterna puedes iluminar aquellos escenarios con la luz apagada|
+#o:4|Orden_de_entrada|106|1|0|0|116|0|0|Orden de entrada|Por la presente el Rector le otorga el derecho de entrar en cualquier institucion al portador de este documento|
+#o:5|Bandera_de_ESPANA|98|1|0|0|101|0|0|Bandera de ESPANA|Imprescindible para que te acepten en Derecho|
+#o:6|Tarjeta_H310|95|1|0|0|112|0|0|Tarjeta H310|Algun despistado ha perdido la tarjeta de la residencia, usala para acceder!|
+#o:7|Pala_de_padel|91|1|0|0|88|0|0|Pala de padel|Que ganas de echarse un partidito...|
+#o:8|Balon_de_Rugby|96|1|0|0|108|0|0|Balon de Rugby|Propiedad del polideportivo de la Autonoma|
+#o:9|Libro_de_Anatomia|105|1|0|0|85|0|0|Libro de Anatomia|Propiedad de la Biblioteca de Biologia|
+#o:10|Carnet_UAM|11|1|0|0|98|0|0|Carnet UAM|Te permitira acceder a la biblioteca necesaria|
+#o:11|Caja_sorpresa|24|1|0|0|0|0|0|Caja Sorpresa|La Grandiosa EPS te regala una pista: acercarte al bar del poli es tan recomendable como matricularte de Cirel, cuidadito!|
+#o:12|Pista|87|1|0|0|0|0|0|Pista|En la foto del carnet de la UAM nadie sale bien, aun asi es imprescindible. PD: consiguelo en la Plaza Mayor|
+#o:13|Porreta|69|0|0|0|0|0|0|Porreta|A trabajo bien hecho porrito pal pecho|
+#o:14|Raqueta de Tenis|92|1|0|0|0|0|0|Raqueta de Tenis|El tenis no esta mal, pero es mas util la pala de padel...|
+#o:15|Cervezas|89|1|0|0|0|0|0|Cervezas|Que raro, no les queda Radler...|
+#o:16|Estudiante_desesperado|82|0|0|0|0|0|0|Estudiante desesperado|TENGO EXAMEN EN TRES HORAS DE DERECHO CIVIL, NO ME DA TIEMPO, VOY A SUSPENDER, NO ME DA TIEMPO|
+#o:17|Pancarta_ecologista|104|1|0|0|0|0|0|Pancarta ecologista|Recicla, la Greta te vigila|
+#o:18|Libro_Algebra|17|1|0|0|0|0|0|Libro Algebra|De manos en manos y ni un aprobado|
+#o:19|Bono_Transporte|35|1|0|0|0|0|0|Bono Transporte|Esta caducado, mala suerte|
+#o:20|Novato|94|0|0|0|0|0|0|Novato|Que buenos son los senores veteranos, que buenos son que nos llevan de excursion|
+#o:21|Bandera_republicana|98|1|0|0|19|0|0|Bandera republicana|Imprescindible para Filosofia|
+#p:1|ply1|103|5|

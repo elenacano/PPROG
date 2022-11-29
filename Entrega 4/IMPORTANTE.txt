@@ -1,0 +1,5 @@
+PARA UNA CORRECTA VISUALIZACIÓN DEL JUEGO SE RECOMIENDA:
+1)- Abrir la terminal y seleccionar:
+    Editar > Preferencias > Texto > Permitir Texto Parpadeante > Nunca
+2)- Pulsar "control menos dos veces" ("Cltr"+"-")x2
+3)- Ejecutar el comando "make run_project", el juego se ajustara a la ventana automáticamente
